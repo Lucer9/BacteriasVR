@@ -1,0 +1,1546 @@
+fileFormatVersion: 2
+guid: 6d0e72bc187d943e09bf6b246beead74
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -1642045316990137142
+    second: jojo11_x2d
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'jojo11_x2d' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'ana:Solving:Spine3' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: jojo11_x2d
+      takeName: jojo11_x2d
+      internalID: 0
+      firstFrame: 94
+      lastFrame: 468
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: ana:Solving:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ana:Solving:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: jojo11(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System
+      parentName: jojo11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17127
+      parentName: System
+      position: {x: -3.316181, y: 2.31633, z: 2.544944}
+      rotation: {x: 0.79706043, y: -0.06846504, z: 0.5664918, w: 0.19772272}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17171
+      parentName: System
+      position: {x: 3.7257292, y: 2.2523057, z: -3.557126}
+      rotation: {x: 0.38037488, y: 0.22461924, z: -0.89063466, w: 0.107847154}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17130
+      parentName: System
+      position: {x: 3.6577203, y: 2.226922, z: -4.995941}
+      rotation: {x: 0.10797014, y: 0.19411726, z: -0.97074074, w: 0.091232955}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17179
+      parentName: System
+      position: {x: 3.8822212, y: 2.2778723, z: 1.0999917}
+      rotation: {x: 0.73764426, y: 0.03200274, z: -0.6349997, w: 0.22722733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:Vantage_5_2121766
+      parentName: System
+      position: {x: 0.33037615, y: 0.646297, z: 5.261691}
+      rotation: {x: -0.026852328, y: -0.9989781, z: 0.028586764, w: 0.022463055}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17180
+      parentName: System
+      position: {x: 3.8097525, y: 2.2551615, z: -1.7494779}
+      rotation: {x: 0.5305755, y: 0.20389569, z: -0.82176065, w: 0.040320262}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17149
+      parentName: System
+      position: {x: -3.5904295, y: 2.3265874, z: -4.692452}
+      rotation: {x: 0.35615066, y: -0.13976125, z: 0.90905, w: 0.16508077}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17178
+      parentName: System
+      position: {x: -3.2230077, y: 2.3474748, z: 4.6100397}
+      rotation: {x: 0.9441291, y: -0.0065719634, z: 0.2551634, w: 0.20849149}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17133
+      parentName: System
+      position: {x: -3.4972544, y: 2.3444078, z: -1.5491914}
+      rotation: {x: 0.6127034, y: -0.24997503, z: 0.73962504, w: 0.1227268}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17173
+      parentName: System
+      position: {x: -3.4173818, y: 2.3644443, z: 1.3745767}
+      rotation: {x: 0.6400926, y: -0.20053795, z: 0.6469611, w: 0.3626393}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:Vantage_5_2122932
+      parentName: System
+      position: {x: -0.3174522, y: 1.1909283, z: -5.212187}
+      rotation: {x: 0.0084223, y: 0.036706865, z: -0.027186062, w: 0.99892074}
+      scale: {x: 1, y: 1, z: 1}
+    - name: System:T40_17175
+      parentName: System
+      position: {x: 3.9937212, y: 2.2945008, z: 4.3404856}
+      rotation: {x: 0.9073025, y: 0.022219643, z: -0.388783, w: 0.15860721}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana
+      parentName: jojo11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:ARIEL
+      parentName: ana
+      position: {x: -0.00076710817, y: 1.524768, z: -0.099048145}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LFHD
+      parentName: ana
+      position: {x: -0.05278288, y: 1.4724766, z: 0.012995105}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LBHD
+      parentName: ana
+      position: {x: -0.093644716, y: 1.4051384, z: -0.11511302}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RFHD
+      parentName: ana
+      position: {x: 0.08351289, y: 1.4561564, z: -0.028298974}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RBHD
+      parentName: ana
+      position: {x: 0.09298091, y: 1.4340371, z: -0.08755527}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:C7
+      parentName: ana
+      position: {x: -0.013235123, y: 1.255116, z: -0.17648128}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:T10
+      parentName: ana
+      position: {x: -0.001311233, y: 1.0351843, z: -0.1644176}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:CLAV
+      parentName: ana
+      position: {x: -0.002891413, y: 1.2014767, z: 0.023907527}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:STRN
+      parentName: ana
+      position: {x: -0.0015721025, y: 1.0213072, z: 0.07439219}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LFSH
+      parentName: ana
+      position: {x: -0.09268318, y: 1.2750387, z: -0.03972155}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LBSH
+      parentName: ana
+      position: {x: -0.12068857, y: 1.2322685, z: -0.1761101}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LUPA
+      parentName: ana
+      position: {x: -0.26929015, y: 1.2343585, z: -0.12065777}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LELB
+      parentName: ana
+      position: {x: -0.39586538, y: 1.2828004, z: -0.012189344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LIEL
+      parentName: ana
+      position: {x: -0.41263732, y: 1.1999426, z: -0.067173205}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LOWR
+      parentName: ana
+      position: {x: -0.6247853, y: 1.2348624, z: -0.018242044}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LIWR
+      parentName: ana
+      position: {x: -0.5923504, y: 1.2769446, z: 0.06333382}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LWRE
+      parentName: ana
+      position: {x: -0.5241772, y: 1.2514602, z: -0.049219906}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LIHAND
+      parentName: ana
+      position: {x: -0.6964507, y: 1.3050168, z: 0.036202133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LOHAND
+      parentName: ana
+      position: {x: -0.68351644, y: 1.2682475, z: -0.013305353}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RFSH
+      parentName: ana
+      position: {x: 0.123213634, y: 1.2572585, z: -0.017844457}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RBSH
+      parentName: ana
+      position: {x: 0.14114483, y: 1.2806627, z: -0.12998284}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RUPA
+      parentName: ana
+      position: {x: 0.28571758, y: 1.2407259, z: -0.112557456}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RELB
+      parentName: ana
+      position: {x: 0.4122113, y: 1.2152144, z: -0.0907663}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RIEL
+      parentName: ana
+      position: {x: 0.40297976, y: 1.1564251, z: -0.053636458}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:ROWR
+      parentName: ana
+      position: {x: 0.6113653, y: 1.1857926, z: -0.06664028}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RIWR
+      parentName: ana
+      position: {x: 0.59583795, y: 1.2405481, z: 0.012342473}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RWRE
+      parentName: ana
+      position: {x: 0.43413967, y: 1.2548486, z: -0.019233664}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RIHAND
+      parentName: ana
+      position: {x: 0.72189766, y: 1.242346, z: -0.009898986}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:ROHAND
+      parentName: ana
+      position: {x: 0.69189346, y: 1.1982449, z: -0.0698398}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LFWT
+      parentName: ana
+      position: {x: -0.1139913, y: 0.8315754, z: 0.010559405}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LMWT
+      parentName: ana
+      position: {x: 0.0089023765, y: 0.81989646, z: 0.040315907}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LBWT
+      parentName: ana
+      position: {x: -0.10220749, y: 0.8793545, z: -0.1761429}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RFWT
+      parentName: ana
+      position: {x: 0.14208435, y: 0.83502316, z: -0.0010318707}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RMWT
+      parentName: ana
+      position: {x: 0.0017908311, y: 0.8875119, z: -0.1888594}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RBWT
+      parentName: ana
+      position: {x: 0.105093546, y: 0.8907242, z: -0.172037}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LHIP
+      parentName: ana
+      position: {x: -0.114232205, y: 0.45398402, z: -0.0445829}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LKNE
+      parentName: ana
+      position: {x: -0.09839985, y: 0.3785544, z: -0.06340851}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LKNI
+      parentName: ana
+      position: {x: -0.013393608, y: 0.3819488, z: -0.07334148}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LSHN
+      parentName: ana
+      position: {x: -0.06494447, y: 0.3016535, z: -0.07982719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LANK
+      parentName: ana
+      position: {x: -0.106598966, y: -0.0021380244, z: -0.14896381}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LHEL
+      parentName: ana
+      position: {x: -0.042847127, y: -0.0046453653, z: -0.20226288}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LMT5
+      parentName: ana
+      position: {x: -0.11814066, y: -0.018426104, z: -0.052606966}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LMT1
+      parentName: ana
+      position: {x: -0.017975692, y: -0.024871958, z: -0.048498087}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:LTOE
+      parentName: ana
+      position: {x: -0.07077893, y: -0.01700914, z: 0.023051871}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RHIP
+      parentName: ana
+      position: {x: 0.16680835, y: 0.6607936, z: -0.022351632}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RKNE
+      parentName: ana
+      position: {x: 0.116797246, y: 0.37868774, z: -0.06273137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RKNI
+      parentName: ana
+      position: {x: 0.034367934, y: 0.37112045, z: -0.059635133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RSHN
+      parentName: ana
+      position: {x: 0.09912053, y: 0.08278074, z: -0.09364033}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RANK
+      parentName: ana
+      position: {x: 0.12571092, y: 0.009375004, z: -0.15537629}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RHEL
+      parentName: ana
+      position: {x: 0.07183575, y: -0.0065411166, z: -0.20560443}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RMT5
+      parentName: ana
+      position: {x: 0.14686322, y: -0.026464306, z: -0.0480991}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RMT1
+      parentName: ana
+      position: {x: 0.046552733, y: -0.026742103, z: -0.04269728}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:RTOE
+      parentName: ana
+      position: {x: 0.100890964, y: -0.0134637905, z: 0.032954607}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving
+      parentName: ana
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:Hips
+      parentName: ana:Solving
+      position: {x: 0.0063804095, y: 0.8470106, z: -0.08343008}
+      rotation: {x: -0.6980021, y: 0.01844081, z: 0.014103918, w: 0.7157193}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:Spine
+      parentName: ana:Solving:Hips
+      position: {x: -0, y: 0.037281655, z: 0.05592248}
+      rotation: {x: -0.07595767, y: 0.00019287848, z: 0.0007596445, w: 0.9971107}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:Spine1
+      parentName: ana:Solving:Spine
+      position: {x: -0, y: 0, z: 0.07456331}
+      rotation: {x: 0.05100724, y: -0.0003874366, z: -0.0001853188, w: 0.99869823}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:Spine2
+      parentName: ana:Solving:Spine1
+      position: {x: -0, y: 0, z: 0.07456331}
+      rotation: {x: 0.029950587, y: 0.002308184, z: -0.0058240835, w: 0.99953175}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:Spine3
+      parentName: ana:Solving:Spine2
+      position: {x: -0, y: 0, z: 0.07456331}
+      rotation: {x: -0.013211412, y: -0.0001387658, z: 0.0007641609, w: 0.99991244}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:Neck
+      parentName: ana:Solving:Spine3
+      position: {x: -0, y: -0.02796124, z: 0.19572867}
+      rotation: {x: 0.054258965, y: -0.01725024, z: -0.016247671, w: 0.99824566}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:Head
+      parentName: ana:Solving:Neck
+      position: {x: -0, y: 0, z: 0.10252455}
+      rotation: {x: -0.11419967, y: -0.0036598062, z: -0.024457471, w: 0.99315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:HeadEnd
+      parentName: ana:Solving:Head
+      position: {x: -0, y: 0, z: 0.120699346}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightShoulder
+      parentName: ana:Solving:Spine3
+      position: {x: 0.026988663, y: -0.044981107, z: 0.14573878}
+      rotation: {x: 0.020948173, y: 0.9905891, z: 0.00010978758, w: 0.13525724}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightArm
+      parentName: ana:Solving:RightShoulder
+      position: {x: -0.1340437, y: 0, z: 0}
+      rotation: {x: 0.22034033, y: 0.15320356, z: -0.016606051, w: 0.9631734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightForeArm
+      parentName: ana:Solving:RightArm
+      position: {x: -0.27259418, y: 0, z: 0}
+      rotation: {x: 0.0020412798, y: -0.023531185, z: 0.015093371, w: 0.9996071}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightHand
+      parentName: ana:Solving:RightForeArm
+      position: {x: -0.18453866, y: 0, z: 0}
+      rotation: {x: 0.079437405, y: 0.01850852, z: -0.133769, w: 0.9876503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightHandEnd
+      parentName: ana:Solving:RightHand
+      position: {x: -0.061410636, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:R_FingersEnd
+      parentName: ana:Solving:RightHandEnd
+      position: {x: -0.061410636, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightHandThumb1
+      parentName: ana:Solving:RightHand
+      position: {x: -0.024564253, y: -0.040940423, z: 0.016376168}
+      rotation: {x: 0.9876721, y: 0.13002947, z: 0.011375968, w: 0.08641026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightHandThumb2
+      parentName: ana:Solving:RightHandThumb1
+      position: {x: -0.061410636, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftShoulder
+      parentName: ana:Solving:Spine3
+      position: {x: -0.026988663, y: -0.044981107, z: 0.14573878}
+      rotation: {x: -0.04110696, y: 0.12945652, z: -0.004705996, w: 0.9907215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftArm
+      parentName: ana:Solving:LeftShoulder
+      position: {x: -0.1340437, y: 0, z: 0}
+      rotation: {x: -0.16044413, y: -0.13538374, z: 0.014342888, w: 0.977611}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftForeArm
+      parentName: ana:Solving:LeftArm
+      position: {x: -0.27259418, y: 0, z: 0}
+      rotation: {x: -0.00084444863, y: 0.007910026, z: -0.0037025819, w: 0.99996156}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftHand
+      parentName: ana:Solving:LeftForeArm
+      position: {x: -0.18453866, y: 0, z: 0}
+      rotation: {x: -0.06386791, y: 0.07444147, z: -0.093015835, w: 0.9908216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftHandEnd
+      parentName: ana:Solving:LeftHand
+      position: {x: -0.061410636, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: -0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:L_FingersEnd
+      parentName: ana:Solving:LeftHandEnd
+      position: {x: -0.061410636, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftHandThumb1
+      parentName: ana:Solving:LeftHand
+      position: {x: -0.024564253, y: -0.040940423, z: -0.016376168}
+      rotation: {x: 0.9876721, y: 0.13002947, z: 0.011375968, w: 0.08641026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftHandThumb2
+      parentName: ana:Solving:LeftHandThumb1
+      position: {x: -0.061410636, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightUpLeg
+      parentName: ana:Solving:Hips
+      position: {x: 0.08006637, y: 0, z: -0.023390174}
+      rotation: {x: 0.07101762, y: -0.7120167, z: 0.033669036, w: 0.69775003}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightLeg
+      parentName: ana:Solving:RightUpLeg
+      position: {x: -0.39546388, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.015537496, w: 0.9998793}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightFoot
+      parentName: ana:Solving:RightLeg
+      position: {x: -0.37347063, y: 0, z: 0}
+      rotation: {x: -0.027503744, y: 0.06671321, z: 0.6588005, w: 0.7488491}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightToeBase
+      parentName: ana:Solving:RightFoot
+      position: {x: -0.124215364, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.11577174, w: 0.9932758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:RightToeBaseEnd
+      parentName: ana:Solving:RightToeBase
+      position: {x: -0.06477279, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftUpLeg
+      parentName: ana:Solving:Hips
+      position: {x: -0.08006637, y: 0, z: -0.023390174}
+      rotation: {x: -0.026675096, y: -0.7103589, z: -0.090687744, w: 0.6974629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftLeg
+      parentName: ana:Solving:LeftUpLeg
+      position: {x: -0.39546388, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0024815977, w: 0.99999696}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftFoot
+      parentName: ana:Solving:LeftLeg
+      position: {x: -0.37347063, y: 0, z: 0}
+      rotation: {x: 0.02454328, y: -0.029361308, z: 0.6216498, w: 0.78235996}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftToeBase
+      parentName: ana:Solving:LeftFoot
+      position: {x: -0.124215364, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.16892165, w: 0.9856295}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ana:Solving:LeftToeBaseEnd
+      parentName: ana:Solving:LeftToeBase
+      position: {x: -0.06477279, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel
+      parentName: jojo11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:ARIEL
+      parentName: daniel
+      position: {x: -0.11557564, y: 1.2838086, z: 0.45068544}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LFHD
+      parentName: daniel
+      position: {x: -0.123860024, y: 1.1328827, z: 0.42613512}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LBHD
+      parentName: daniel
+      position: {x: -0.1797301, y: 1.1886842, z: 0.33170193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RFHD
+      parentName: daniel
+      position: {x: 0.0071779154, y: 1.2328632, z: 0.4196746}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RBHD
+      parentName: daniel
+      position: {x: -0.017454814, y: 1.2812386, z: 0.36354133}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:C7
+      parentName: daniel
+      position: {x: -0.06425724, y: 1.2534897, z: 0.123708054}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:T10
+      parentName: daniel
+      position: {x: 0.035742894, y: 1.1789682, z: -0.06535923}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:CLAV
+      parentName: daniel
+      position: {x: -0.011642877, y: 1.0587777, z: 0.18811794}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:STRN
+      parentName: daniel
+      position: {x: 0.052166395, y: 0.96385795, z: 0.0564704}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LFSH
+      parentName: daniel
+      position: {x: 0.110122256, y: 0.9830309, z: 0.12812251}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LBSH
+      parentName: daniel
+      position: {x: 0.19983967, y: 1.0842584, z: 0.1166399}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LUPA
+      parentName: daniel
+      position: {x: 0.22825445, y: 0.9344628, z: 0.07651474}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LELB
+      parentName: daniel
+      position: {x: 0.24884266, y: 0.774334, z: 0.020998532}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LIEL
+      parentName: daniel
+      position: {x: 0.20325555, y: 0.7253582, z: 0.0690097}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LOWR
+      parentName: daniel
+      position: {x: 0.04486694, y: 0.90521, z: 0.05659795}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LIWR
+      parentName: daniel
+      position: {x: 0.11129625, y: 0.97622615, z: 0.047537416}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LWRE
+      parentName: daniel
+      position: {x: 0.14652936, y: 0.84333634, z: 0.010320894}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LIHAND
+      parentName: daniel
+      position: {x: 0.075425066, y: 0.9667706, z: 0.17912881}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LOHAND
+      parentName: daniel
+      position: {x: 0.030538408, y: 0.91220945, z: 0.13632028}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RFSH
+      parentName: daniel
+      position: {x: -0.18324931, y: 1.0468018, z: 0.12747791}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RBSH
+      parentName: daniel
+      position: {x: -0.2260865, y: 1.1678808, z: 0.0872972}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RUPA
+      parentName: daniel
+      position: {x: -0.09475297, y: 1.0382204, z: 0.15046933}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RELB
+      parentName: daniel
+      position: {x: 0.0022982268, y: 0.9141868, z: 0.14674085}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RIEL
+      parentName: daniel
+      position: {x: -0.06656408, y: 0.8526576, z: 0.13791229}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:ROWR
+      parentName: daniel
+      position: {x: 0.18586604, y: 0.77657986, z: 0.1408759}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RIWR
+      parentName: daniel
+      position: {x: 0.13704309, y: 0.74689984, z: 0.06166948}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RWRE
+      parentName: daniel
+      position: {x: 0.048951447, y: 0.81681794, z: 0.12381494}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RIHAND
+      parentName: daniel
+      position: {x: 0.2206765, y: 0.78772396, z: 0.19995391}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:ROHAND
+      parentName: daniel
+      position: {x: 0.15657462, y: 0.7414415, z: 0.2072628}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LFWT
+      parentName: daniel
+      position: {x: -0.017301947, y: 0.8511729, z: -0.13900998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LMWT
+      parentName: daniel
+      position: {x: 0.14683664, y: 0.842324, z: -0.09391715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LBWT
+      parentName: daniel
+      position: {x: -0.012925625, y: 0.986038, z: -0.24635042}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RFWT
+      parentName: daniel
+      position: {x: 0.25819704, y: 0.9283119, z: -0.12465371}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RMWT
+      parentName: daniel
+      position: {x: 0.102552265, y: 1.035564, z: -0.26048365}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RBWT
+      parentName: daniel
+      position: {x: 0.23040628, y: 1.0470313, z: -0.22698316}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LHIP
+      parentName: daniel
+      position: {x: 0.21914047, y: 0.57118046, z: -0.31990907}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LKNE
+      parentName: daniel
+      position: {x: 0.28684545, y: 0.48687968, z: -0.28988093}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LKNI
+      parentName: daniel
+      position: {x: 0.12565042, y: 0.44270197, z: -0.16938402}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LSHN
+      parentName: daniel
+      position: {x: 0.25166827, y: 0.43817276, z: -0.28807503}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LANK
+      parentName: daniel
+      position: {x: 0.24274637, y: 0.31000313, z: -0.580786}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LHEL
+      parentName: daniel
+      position: {x: 0.29930276, y: 0.36092648, z: -0.617408}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LMT5
+      parentName: daniel
+      position: {x: 0.120510355, y: 0.32435024, z: -0.599896}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LMT1
+      parentName: daniel
+      position: {x: 0.17561914, y: 0.22925779, z: -0.6264932}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:LTOE
+      parentName: daniel
+      position: {x: 0.0911394, y: 0.23526433, z: -0.5826266}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RHIP
+      parentName: daniel
+      position: {x: 0.35127062, y: 0.8159327, z: -0.16694756}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RKNE
+      parentName: daniel
+      position: {x: 0.2841448, y: 0.549526, z: -0.09718493}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RKNI
+      parentName: daniel
+      position: {x: 0.182812, y: 0.6193481, z: 0.060828514}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RSHN
+      parentName: daniel
+      position: {x: 0.11190847, y: 0.39481005, z: -0.33147565}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RANK
+      parentName: daniel
+      position: {x: 0.06893265, y: 0.43223393, z: -0.43042758}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RHEL
+      parentName: daniel
+      position: {x: 0.26454228, y: 0.14268078, z: -0.4564114}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RMT5
+      parentName: daniel
+      position: {x: 0.30229023, y: 0.32968673, z: -0.4929729}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RMT1
+      parentName: daniel
+      position: {x: 0.37848547, y: 0.28411576, z: -0.42294046}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:RTOE
+      parentName: daniel
+      position: {x: 0.37801787, y: 0.2921968, z: -0.5084665}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving
+      parentName: daniel
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:Hips
+      parentName: daniel:Solving
+      position: {x: 0.16218315, y: 0.8148603, z: -0.24377878}
+      rotation: {x: -0.50039345, y: -0.11243719, z: 0.10169742, w: 0.8524213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:Spine
+      parentName: daniel:Solving:Hips
+      position: {x: -0, y: 0.051456198, z: 0.0771843}
+      rotation: {x: -0.0027750111, y: 0.005645752, z: 0.0030702858, w: 0.9999755}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:Spine1
+      parentName: daniel:Solving:Spine
+      position: {x: -0, y: 0, z: 0.102912396}
+      rotation: {x: 0.15266748, y: -0.0013555817, z: -0.006174814, w: 0.9882574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:Spine2
+      parentName: daniel:Solving:Spine1
+      position: {x: -0, y: 0, z: 0.102912396}
+      rotation: {x: 0.06957468, y: -0.04967547, z: -0.08682549, w: 0.99254876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:Spine3
+      parentName: daniel:Solving:Spine2
+      position: {x: -0, y: 0, z: 0.102912396}
+      rotation: {x: 0.04350899, y: -0.025750626, z: 0.01194302, w: 0.9986497}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:Neck
+      parentName: daniel:Solving:Spine3
+      position: {x: -0, y: -0.03859215, z: 0.27014503}
+      rotation: {x: 0.13028203, y: 0.062630765, z: 0.045543965, w: 0.98844814}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:Head
+      parentName: daniel:Solving:Neck
+      position: {x: -0, y: 0, z: 0.14150454}
+      rotation: {x: -0.056341488, y: 0.0062931636, z: 0.15202692, w: 0.9867492}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:HeadEnd
+      parentName: daniel:Solving:Head
+      position: {x: -0, y: 0, z: 0.16658945}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightShoulder
+      parentName: daniel:Solving:Spine3
+      position: {x: 0.029661505, y: -0.04943584, z: 0.16017212}
+      rotation: {x: 0.15732314, y: 0.39162454, z: 0.06615957, w: 0.9041585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightArm
+      parentName: daniel:Solving:RightShoulder
+      position: {x: -0.1473188, y: 0, z: 0}
+      rotation: {x: -0.22973083, y: -0.58819383, z: 0.61916876, w: 0.46677807}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightForeArm
+      parentName: daniel:Solving:RightArm
+      position: {x: -0.29611045, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.24357212, w: 0.9698828}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightHand
+      parentName: daniel:Solving:RightForeArm
+      position: {x: -0.21117784, y: 0, z: 0}
+      rotation: {x: 0.40192977, y: 0.64636755, z: 0.39189085, w: 0.51680076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightHandEnd
+      parentName: daniel:Solving:RightHand
+      position: {x: -0.06676397, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: 0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:R_FingersEnd
+      parentName: daniel:Solving:RightHandEnd
+      position: {x: -0.06676397, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightHandThumb1
+      parentName: daniel:Solving:RightHand
+      position: {x: -0.026705585, y: -0.044509314, z: 0.017803725}
+      rotation: {x: 0.9876721, y: 0.13002947, z: 0.011375968, w: 0.08641026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightHandThumb2
+      parentName: daniel:Solving:RightHandThumb1
+      position: {x: -0.06676397, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftShoulder
+      parentName: daniel:Solving:Spine3
+      position: {x: -0.029661505, y: -0.04943584, z: 0.16017212}
+      rotation: {x: 0.33343476, y: 0.9233162, z: 0.15357372, w: -0.11279903}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftArm
+      parentName: daniel:Solving:LeftShoulder
+      position: {x: -0.1473188, y: 0, z: 0}
+      rotation: {x: -0.29059494, y: 0.23062328, z: 0.38335067, w: 0.84581906}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftForeArm
+      parentName: daniel:Solving:LeftArm
+      position: {x: -0.29611045, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.9783477, w: 0.20696807}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftHand
+      parentName: daniel:Solving:LeftForeArm
+      position: {x: -0.21117784, y: 0, z: 0}
+      rotation: {x: -0.19463193, y: -0.7367369, z: 0.14403442, w: 0.63134086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftHandEnd
+      parentName: daniel:Solving:LeftHand
+      position: {x: -0.06676397, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: -0, z: -0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:L_FingersEnd
+      parentName: daniel:Solving:LeftHandEnd
+      position: {x: -0.06676397, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftHandThumb1
+      parentName: daniel:Solving:LeftHand
+      position: {x: -0.026705585, y: -0.044509314, z: -0.017803725}
+      rotation: {x: 0.9876721, y: 0.13002947, z: 0.011375968, w: 0.08641026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftHandThumb2
+      parentName: daniel:Solving:LeftHandThumb1
+      position: {x: -0.06676397, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightUpLeg
+      parentName: daniel:Solving:Hips
+      position: {x: 0.0879958, y: 0, z: -0.025706636}
+      rotation: {x: 0.68896556, y: 0.21726228, z: 0.47105715, w: 0.50619036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightLeg
+      parentName: daniel:Solving:RightUpLeg
+      position: {x: -0.354552, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.67621917, w: 0.7367006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightFoot
+      parentName: daniel:Solving:RightLeg
+      position: {x: -0.2414166, y: 0, z: 0}
+      rotation: {x: -0.19702362, y: -0.0792033, z: -0.0426474, w: 0.97626317}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightToeBase
+      parentName: daniel:Solving:RightFoot
+      position: {x: -0.15220001, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.18915571, w: 0.9819471}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:RightToeBaseEnd
+      parentName: daniel:Solving:RightToeBase
+      position: {x: -0.07118761, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftUpLeg
+      parentName: daniel:Solving:Hips
+      position: {x: -0.0879958, y: 0, z: -0.025706636}
+      rotation: {x: 0.59938747, y: 0.35124356, z: 0.71646184, w: 0.06360197}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftLeg
+      parentName: daniel:Solving:LeftUpLeg
+      position: {x: -0.354552, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.5636878, w: 0.82598794}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftFoot
+      parentName: daniel:Solving:LeftLeg
+      position: {x: -0.2414166, y: 0, z: 0}
+      rotation: {x: 0.7152657, y: -0.11917691, z: 0.41858643, w: 0.5467881}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftToeBase
+      parentName: daniel:Solving:LeftFoot
+      position: {x: -0.15220001, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0.21731256, w: 0.97610205}
+      scale: {x: 1, y: 1, z: 1}
+    - name: daniel:Solving:LeftToeBaseEnd
+      parentName: daniel:Solving:LeftToeBase
+      position: {x: -0.07118761, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers
+      parentName: jojo11(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_1
+      parentName: Unlabeled_Markers
+      position: {x: 0.22492485, y: 0.79181653, z: 0.057810936}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_2
+      parentName: Unlabeled_Markers
+      position: {x: -0.12356326, y: 1.0511672, z: 0.15744004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_3
+      parentName: Unlabeled_Markers
+      position: {x: -0.10833873, y: 0.88080436, z: 0.14333344}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_4
+      parentName: Unlabeled_Markers
+      position: {x: 0.13175607, y: 0.85677093, z: 0.04926024}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_5
+      parentName: Unlabeled_Markers
+      position: {x: 0.17512372, y: 0.74792707, z: 0.09188946}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_6
+      parentName: Unlabeled_Markers
+      position: {x: -0.005318044, y: 0.9290548, z: 0.13960524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_7
+      parentName: Unlabeled_Markers
+      position: {x: 0.028614022, y: 0.8200824, z: 0.13291572}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_8
+      parentName: Unlabeled_Markers
+      position: {x: 0.1086396, y: 0.76582074, z: 0.08108004}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_9
+      parentName: Unlabeled_Markers
+      position: {x: 0.19116342, y: 1.1983701, z: -0.07429517}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_10
+      parentName: Unlabeled_Markers
+      position: {x: 0.072990805, y: 0.67626023, z: 0.2478978}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_11
+      parentName: Unlabeled_Markers
+      position: {x: 0.24461326, y: 1.0075608, z: 0.00077334326}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_12
+      parentName: Unlabeled_Markers
+      position: {x: 0.0012443488, y: 0.6817621, z: 0.25426245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_13
+      parentName: Unlabeled_Markers
+      position: {x: 0.22459379, y: 0.886819, z: 0.081998415}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_14
+      parentName: Unlabeled_Markers
+      position: {x: 0.11713917, y: 0.7459156, z: 0.2134267}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_15
+      parentName: Unlabeled_Markers
+      position: {x: 0.03263761, y: 0.7979198, z: 0.19761148}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_16
+      parentName: Unlabeled_Markers
+      position: {x: 0.15195718, y: 0.914871, z: 0.11753722}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_17
+      parentName: Unlabeled_Markers
+      position: {x: 0.18840654, y: 0.85935783, z: 0.024512112}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_18
+      parentName: Unlabeled_Markers
+      position: {x: 0.20518358, y: 0.36635637, z: 0.0109768305}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_19
+      parentName: Unlabeled_Markers
+      position: {x: 0.18886945, y: 1.1253576, z: -0.021096537}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_20
+      parentName: Unlabeled_Markers
+      position: {x: 0.14555696, y: -0.005580836, z: 0.038716786}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_21
+      parentName: Unlabeled_Markers
+      position: {x: -0.03082132, y: 0.013372641, z: -0.21941376}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_22
+      parentName: Unlabeled_Markers
+      position: {x: 0.17941049, y: 0.39089727, z: 0.0053308797}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_23
+      parentName: Unlabeled_Markers
+      position: {x: 0.20916319, y: 1.3290018, z: 0.11853906}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_24
+      parentName: Unlabeled_Markers
+      position: {x: -0.059379578, y: -0.011226957, z: -0.066046484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_25
+      parentName: Unlabeled_Markers
+      position: {x: 0.124887206, y: 0.8209813, z: -0.33351564}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_26
+      parentName: Unlabeled_Markers
+      position: {x: 0.17414255, y: 0.002149126, z: -0.19254367}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_27
+      parentName: Unlabeled_Markers
+      position: {x: 0.1704879, y: 0.072701864, z: -0.06701847}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_28
+      parentName: Unlabeled_Markers
+      position: {x: 0.008458346, y: 0.37244415, z: 0.02731561}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_29
+      parentName: Unlabeled_Markers
+      position: {x: 0.20908542, y: 0.010236016, z: -0.124476686}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_30
+      parentName: Unlabeled_Markers
+      position: {x: -0.07481731, y: 0.012185531, z: -0.14724019}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_31
+      parentName: Unlabeled_Markers
+      position: {x: -0.07922617, y: 0.79646844, z: -0.30996922}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_32
+      parentName: Unlabeled_Markers
+      position: {x: -0.07199207, y: 1.1747408, z: -0.08438734}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_33
+      parentName: Unlabeled_Markers
+      position: {x: 0.22805612, y: 1.2885946, z: -0.0061559444}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_34
+      parentName: Unlabeled_Markers
+      position: {x: 0.003535934, y: -0.011415015, z: -0.006083091}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_35
+      parentName: Unlabeled_Markers
+      position: {x: -0.01656631, y: 0.45246446, z: 0.0071041966}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_36
+      parentName: Unlabeled_Markers
+      position: {x: 0.101129234, y: -0.018291064, z: -0.045397844}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_37
+      parentName: Unlabeled_Markers
+      position: {x: 0.21357162, y: -0.03948588, z: -0.033582654}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_38
+      parentName: Unlabeled_Markers
+      position: {x: 0.25725156, y: 1.2448587, z: 0.030845756}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_39
+      parentName: Unlabeled_Markers
+      position: {x: 0.03545543, y: 0.27057675, z: 0.0043701385}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_40
+      parentName: Unlabeled_Markers
+      position: {x: 0.06430581, y: 1.2257317, z: -0.095622234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_41
+      parentName: Unlabeled_Markers
+      position: {x: 0.029942969, y: -0.030760175, z: -0.08975988}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_42
+      parentName: Unlabeled_Markers
+      position: {x: 0.18443018, y: 1.199244, z: 0.14667137}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_43
+      parentName: Unlabeled_Markers
+      position: {x: 0.021481568, y: 0.80647004, z: -0.33630604}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_44
+      parentName: Unlabeled_Markers
+      position: {x: 0.21740834, y: 0.66009235, z: -0.11043901}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_45
+      parentName: Unlabeled_Markers
+      position: {x: 0.017413747, y: 1.0183803, z: -0.25135994}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_46
+      parentName: Unlabeled_Markers
+      position: {x: 0.09681065, y: 1.0648397, z: 0.0027470833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_47
+      parentName: Unlabeled_Markers
+      position: {x: 0.070278645, y: 1.2747546, z: 0.09568621}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_48
+      parentName: Unlabeled_Markers
+      position: {x: 0.18750273, y: 0.8017526, z: -0.16085559}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_49
+      parentName: Unlabeled_Markers
+      position: {x: 0.062333167, y: 0.7681357, z: -0.10272748}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_50
+      parentName: Unlabeled_Markers
+      position: {x: -0.06400476, y: 0.77690893, z: -0.123852}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_51
+      parentName: Unlabeled_Markers
+      position: {x: -0.0012873419, y: 1.1307601, z: 0.03834418}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_52
+      parentName: Unlabeled_Markers
+      position: {x: 0.08959256, y: 0.83351034, z: 0.0117082335}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_53
+      parentName: Unlabeled_Markers
+      position: {x: 0.0727961, y: 0.84286535, z: -0.052190356}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_54
+      parentName: Unlabeled_Markers
+      position: {x: 0.11536337, y: 0.87089604, z: -0.051893547}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Unlabeled_Markers:_55
+      parentName: Unlabeled_Markers
+      position: {x: -0.008449075, y: -0.021421503, z: -0.1632647}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
