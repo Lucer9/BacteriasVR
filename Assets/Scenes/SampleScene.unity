@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.3587269, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311947, g: 0.38074005, b: 0.35872722, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f937905c93e904ec2b0f9f7e36c55ce1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  monster: {fileID: 2551098379104421754, guid: 5252cc4b602c6406da6da249e3a05b14, type: 3}
+  monster: {fileID: 2019179991638718601, guid: 0dd090c3f51e1435c84de0f27d13ffa3, type: 3}
   startTime: 0
   repeatTime: 25
 --- !u!4 &376755248
@@ -306,7 +306,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f937905c93e904ec2b0f9f7e36c55ce1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  monster: {fileID: 2551098379104421754, guid: 5252cc4b602c6406da6da249e3a05b14, type: 3}
+  monster: {fileID: 2019179991638718601, guid: 0dd090c3f51e1435c84de0f27d13ffa3, type: 3}
   startTime: 0
   repeatTime: 15
 --- !u!4 &424705580
@@ -687,7 +687,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f937905c93e904ec2b0f9f7e36c55ce1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  monster: {fileID: 2551098379104421754, guid: 5252cc4b602c6406da6da249e3a05b14, type: 3}
+  monster: {fileID: 2019179991638718601, guid: 0dd090c3f51e1435c84de0f27d13ffa3, type: 3}
   startTime: 5
   repeatTime: 20
 --- !u!4 &1588446331
@@ -767,7 +767,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f937905c93e904ec2b0f9f7e36c55ce1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  monster: {fileID: 2551098379104421754, guid: 5252cc4b602c6406da6da249e3a05b14, type: 3}
+  monster: {fileID: 2019179991638718601, guid: 0dd090c3f51e1435c84de0f27d13ffa3, type: 3}
   startTime: 5
   repeatTime: 10
 --- !u!4 &1654120820
